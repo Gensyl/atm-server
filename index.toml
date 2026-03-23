@@ -12201,6 +12201,10 @@ hash = "cb5b785108ae4f64238e5cc4c838823749257bf26095ed1103f38c5e5f8e2cb9"
 metafile = true
 
 [[files]]
+file = "mods/SimpleTMs-neoforge-2.3.3.jar"
+hash = "0eae5947d21dea7df1c2cf8cf8423929aff55cf5b807c85a9c1e5ad422ebf9c6"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
@@ -12441,11 +12445,6 @@ hash = "a445471ac6843bcf9fb76eabb4357de0357dfa7782be536a7827a26764fe45c1"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "c3233ab72a796b7a0fcea7fa22b88ef5ee0512daf3c767be4f88e6e4f30881b0"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "a0f52f47c27d6ccdbee89735e459ff955ba09cdf499ef42bc901f8426be75253"
 metafile = true
@@ -12514,6 +12513,10 @@ metafile = true
 file = "mods/building-gadgets.pw.toml"
 hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
 metafile = true
+
+[[files]]
+file = "mods/bwncr-neoforge-1.21.1-3.20.3.jar"
+hash = "2d506ec61d802feef2a03279f73a9528372af6ae5d0ec04ea8677cebaabfe6af"
 
 [[files]]
 file = "mods/caelus.pw.toml"
@@ -12610,11 +12613,6 @@ hash = "60a0ed9101660ccb6ee8aa2846f515b034fe359a7f6829938d714aecbd52e745"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-pokenav.pw.toml"
-hash = "9e43ce400edd4f0bda7eb21e84bd81304a9a3025894de44ca6a7eddf40645190"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-utility.pw.toml"
 hash = "2726945ad9795cee0b27eb80d4ac5e75a0d2f5e2d965e60deff96046719b3575"
 metafile = true
@@ -12628,6 +12626,10 @@ metafile = true
 file = "mods/cobblemonraiddens.pw.toml"
 hash = "6ffc80c7f2d6feec98807f8f36e0ee9d9bb15e192870b85cbfb550b7b963dbad"
 metafile = true
+
+[[files]]
+file = "mods/cobblenav-neoforge-2.2.5.jar"
+hash = "31d54d67e05fecf83d1cd4c12e91b131f5874f965e355c8272551185aa1cdd02"
 
 [[files]]
 file = "mods/cobblepedia.pw.toml"
@@ -13169,9 +13171,8 @@ file = "mods/illusionist-2.0.2.jar"
 hash = "97a85643654f70fb5486fba17e73dd3289a566a6c1aea16c0efbc476c79a949b"
 
 [[files]]
-file = "mods/im-fast.pw.toml"
-hash = "a7b43a5e9c934e22bebe3298ae5ec54bbf098f3506703a1581f901e6896797ff"
-metafile = true
+file = "mods/imfast-NEOFORGE-1.0.2.jar"
+hash = "b435fc21651883ede376ada684d196a1c93aae8f240bcd4d551fb0d8384db7fa"
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
@@ -13498,14 +13499,13 @@ hash = "6526d0de1fe5acd6a4fa0135b8b7bcd7fc09bd481f85e7f8221db633ff58e676"
 metafile = true
 
 [[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "c315824dfe979035e9943c2d6c051cb865e5501c8e48ac96860289a8fb81a28d"
-metafile = true
-
-[[files]]
 file = "mods/more-red.pw.toml"
 hash = "f978224776c543bba4eda79ab3352f00b9eafd72e24167474775e2c130527313"
 metafile = true
+
+[[files]]
+file = "mods/moreoverlays-1.24.2-mc1.21.1-neoforge.jar"
+hash = "1ab0d1a49e31bbe5cf0cdfe5ba29fd923eca5ac60cdb51164780aa3db317c4b1"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
@@ -13535,11 +13535,6 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "b5be9033308bb88924ddbc0eb95011a6ad1674099f0db976ab5e05a28afc4971"
-metafile = true
-
-[[files]]
-file = "mods/navas-za-megas.pw.toml"
-hash = "879291d07dbfa4e20a2baf25241fb3cd810fd724c80a46a276d6714511575fc7"
 metafile = true
 
 [[files]]
@@ -13897,11 +13892,6 @@ hash = "a83ab94ac7b0408f648f0c9c02b905eb4c2dda8f8c01be2fdd588503cc5d8428"
 metafile = true
 
 [[files]]
-file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
-hash = "8d00e5d6c44ec2ebb13b2659225091a81c62e15b7093acbb1b37957be0465fed"
-metafile = true
-
-[[files]]
 file = "mods/simply-light.pw.toml"
 hash = "64faee9ca0fb7655cf90fde3e5abc93f38f43faf4fb3c6dd328ca90ce764c247"
 metafile = true
@@ -14170,16 +14160,19 @@ hash = "0a47325379d60e0886ab96a8c247ae8820bcb1a4a8ae53d855a50a99f6cab4ca"
 metafile = true
 
 [[files]]
+file = "mods/zamega-neoforge-1.6.1.jar"
+hash = "623161434b49cafc98a1a946191ca260983a66d5c24fb3e6579a382c17f56715"
+
+[[files]]
 file = "mods/zerocore.pw.toml"
 hash = "f60046584d023aaa0af0e8a1f3f021acb13121f2130f7c66b85e704da4d72643"
 metafile = true
 
 [[files]]
-file = "resourcepacks/journeymap-cobblemon-icons.pw.toml"
-hash = "5040debd132064d8cba853d77ab3d01df992f1022892a098c1c5794dc812e275"
-metafile = true
+file = "resourcepacks/RCT Trainers+ [1.6] v2.1.zip"
+hash = "44482d5e099fef585e9d742af176d6e54de09a26a8b575b7a510c23d6479f22d"
 
 [[files]]
-file = "resourcepacks/rct-trainer-textures-plus.pw.toml"
-hash = "167976902ffe13cabdd5f54f5773652bd3a6f15978b3775e0abcb3578cc5af36"
+file = "resourcepacks/journeymap-cobblemon-icons.pw.toml"
+hash = "5040debd132064d8cba853d77ab3d01df992f1022892a098c1c5794dc812e275"
 metafile = true
