@@ -13167,10 +13167,6 @@ hash = "288c37b7acf5a32bd60901c411acf9ef2fffebb3f46c3f607415256ce91d653c"
 metafile = true
 
 [[files]]
-file = "mods/illusionist-2.0.2.jar"
-hash = "97a85643654f70fb5486fba17e73dd3289a566a6c1aea16c0efbc476c79a949b"
-
-[[files]]
 file = "mods/imfast-NEOFORGE-1.0.2.jar"
 hash = "b435fc21651883ede376ada684d196a1c93aae8f240bcd4d551fb0d8384db7fa"
 
