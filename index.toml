@@ -12529,6 +12529,11 @@ hash = "7d7b50bca4c32bf627530df6c9990112dba2dd2afe96463d7a4db8b6c7447be9"
 metafile = true
 
 [[files]]
+file = "mods/catch-indicator.pw.toml"
+hash = "2c697168fee23d70634fc54611f2224885fa464dda919f3185e15a8ff482e142"
+metafile = true
+
+[[files]]
 file = "mods/charging-gadgets.pw.toml"
 hash = "a471ec05d756850dfea0763087dbd1852727e0c00ab06dcd2a3ae8e38e76f8e0"
 metafile = true
@@ -12598,6 +12603,16 @@ hash = "eb1911171cfade5867786cb256d0d49c4170972d951c99b983246cda9d91f93e"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-capture-xp.pw.toml"
+hash = "20dece83926a8df256a5b6caf6becc5851b557754f9f70e9e2cb1d004e7030fc"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-challenge.pw.toml"
+hash = "4af4bccaa0d7a6b898f27054ef4015cfeec2c4a4975eb9d3b76d890479e890cc"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-extra-structures.pw.toml"
 hash = "c725c087aa826fe7cfbb6883cf780de96d4ff3125e0e3d9328a0223bb9b964a2"
 metafile = true
@@ -12610,6 +12625,16 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
 hash = "60a0ed9101660ccb6ee8aa2846f515b034fe359a7f6829938d714aecbd52e745"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-smartphone.pw.toml"
+hash = "21b7537c2e9cc07fb6b521c0e6ada6b29f285091961a422b5128076d717ad815"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-tim-core.pw.toml"
+hash = "6f205d0c8313307cd975bea691cdca40fd93744e2eafed0b11e4e683a0aaacdf"
 metafile = true
 
 [[files]]
