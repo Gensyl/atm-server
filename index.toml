@@ -12530,7 +12530,7 @@ metafile = true
 
 [[files]]
 file = "mods/catch-indicator.pw.toml"
-hash = "2c697168fee23d70634fc54611f2224885fa464dda919f3185e15a8ff482e142"
+hash = "b7b31fb931943a1968e5cdde751aa1a0e53db3d7af447787cf6d6539809c464d"
 metafile = true
 
 [[files]]
@@ -13631,6 +13631,10 @@ metafile = true
 [[files]]
 file = "mods/partytrick-4.0.0.jar"
 hash = "c1758534d939476190d72d9ddc904edbeb71824d4d7cd57d482a64c47a92ac5a"
+
+[[files]]
+file = "mods/pastureLoot-1.0.5+1.21.1.jar"
+hash = "48a705eb70a3f129d64af565ff79cfe164d0e59fe2bbc20a903024d0cc844b8f"
 
 [[files]]
 file = "mods/patchouli.pw.toml"

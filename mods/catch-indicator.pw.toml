@@ -1,6 +1,6 @@
 name = "Catch Indicator [Cobblemon Addon]"
 filename = "catchindicator-neoforge-1.4.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
