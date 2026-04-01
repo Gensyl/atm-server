@@ -12992,6 +12992,11 @@ hash = "f8890e55be67dddba9789c5913e934ae06c2f0c3af83c231916c0ef305a16ff5"
 metafile = true
 
 [[files]]
+file = "mods/fakedate.pw.toml"
+hash = "fb175ce50f7114987f96863e00b7f65f9eebbe3b62001ecb6e3a26560230e93b"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "2847aa88f18c7ded7801f7dd707ac660670e81e2ab4ca8b67209100aea8d814c"
 metafile = true

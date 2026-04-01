@@ -1,0 +1,13 @@
+name = "Fake Date"
+filename = "fakedate-1.0.2+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cafe9b349309ca4ec6dcb4d47249827d963c398c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7621672
+project-id = 1459635
