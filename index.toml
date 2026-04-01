@@ -248,6 +248,10 @@ file = "config/extremereactors/common.toml"
 hash = "e008e730a9cdf51b81bc830a1a269dbafacc6970214d2d01ffa0ad3403f9d817"
 
 [[files]]
+file = "config/fakedate.toml"
+hash = "95ddfddcb2ed3f814ba1c9d2aa8b350d8bd0f7135e31f7298e27bb3a45cc20e1"
+
+[[files]]
 file = "config/fancymenu/assets/akliz_color.png"
 hash = "0ddc202dc0bde21307799f43bd60c46de3a6f5ea32d7b265c6e9b9ffb6270af5"
 
@@ -14202,3 +14206,7 @@ hash = "623161434b49cafc98a1a946191ca260983a66d5c24fb3e6579a382c17f56715"
 file = "mods/zerocore.pw.toml"
 hash = "f60046584d023aaa0af0e8a1f3f021acb13121f2130f7c66b85e704da4d72643"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Maxi's-JM+CM_Pixel-U11.zip"
+hash = "69b895090273093492ea7eded6d7dfb0ff5a8460ec4bc50d369f300aabad299d"
