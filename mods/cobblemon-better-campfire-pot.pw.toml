@@ -1,0 +1,13 @@
+name = "Cobblemon: Better Campfire Pot"
+filename = "bettercampfirepot-1.5.0+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82301b088886468437b00cb5c820d08b9d18122d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7803754
+project-id = 1437573

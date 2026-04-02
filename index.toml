@@ -12607,6 +12607,11 @@ hash = "eb1911171cfade5867786cb256d0d49c4170972d951c99b983246cda9d91f93e"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-better-campfire-pot.pw.toml"
+hash = "df3ec49df129f20a61c819fe9abb4a41bfdbb8553c95dbe5fcea04cf9b073d3b"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
 hash = "20dece83926a8df256a5b6caf6becc5851b557754f9f70e9e2cb1d004e7030fc"
 metafile = true
@@ -12644,6 +12649,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
 hash = "6f205d0c8313307cd975bea691cdca40fd93744e2eafed0b11e4e683a0aaacdf"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-ultra-wormholes.pw.toml"
+hash = "372d6b55225e779a5801e022f397c2c24824db233a01b0a582aae28ff1d1e3f8"
 metafile = true
 
 [[files]]
@@ -13539,6 +13549,11 @@ hash = "f978224776c543bba4eda79ab3352f00b9eafd72e24167474775e2c130527313"
 metafile = true
 
 [[files]]
+file = "mods/morecobblemontweaks.pw.toml"
+hash = "737a1d4d7804036bc706c11d284cb3dc1b315ad3384aba2cbb3496a37e3739e3"
+metafile = true
+
+[[files]]
 file = "mods/moreoverlays-1.24.2-mc1.21.1-neoforge.jar"
 hash = "1ab0d1a49e31bbe5cf0cdfe5ba29fd923eca5ac60cdb51164780aa3db317c4b1"
 
@@ -13807,7 +13822,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliquified-artifacts.pw.toml"
-hash = "b623c5f5778b08b99e86a6f9c93b7051ba78ce853309db897c76410365702d62"
+hash = "b9679f777ef8727b8708e31d376f65ad55a9d89a03aa2facde43497121e21cd1"
 metafile = true
 
 [[files]]
@@ -13863,6 +13878,11 @@ metafile = true
 [[files]]
 file = "mods/roots-classic.pw.toml"
 hash = "18200e2cbe8eb488e5f7a330be60ab8151ca418e566e5b8fae22fc640b1987fd"
+metafile = true
+
+[[files]]
+file = "mods/rustling-spots.pw.toml"
+hash = "d7add4219ded42c822a85b82bb7c8f09bd57181a2924cf831ea739f890a8ead0"
 metafile = true
 
 [[files]]
@@ -14171,6 +14191,11 @@ metafile = true
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "7c6f2e38a6932f846738747fd6cff3af239748a84e89350f6c967c8ac72a65d6"
+metafile = true
+
+[[files]]
+file = "mods/yuhans-ride-config.pw.toml"
+hash = "28a2970db0897dbf40c73c60c89d615d8b2b1460833afad951ba0bdb9472af8a"
 metafile = true
 
 [[files]]
