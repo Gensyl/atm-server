@@ -12663,7 +12663,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "e8506cd3259cf74eb5297dc8995c958782ec5b1d9d5fe0b8b88ddd81031a5398"
+hash = "bd0dd7ceb00c37cfaa945dfba23b5b2406e12be20709df8d9f82ba12a5a3a2be"
 metafile = true
 
 [[files]]
@@ -12678,6 +12678,11 @@ hash = "31d54d67e05fecf83d1cd4c12e91b131f5874f965e355c8272551185aa1cdd02"
 [[files]]
 file = "mods/cobblepedia.pw.toml"
 hash = "f0989f93e80cbaaa051ca0737118efc7850ef48a75912053e67a9f937e442626"
+metafile = true
+
+[[files]]
+file = "mods/cobblesafari.pw.toml"
+hash = "53e4f108713f65867df13cc88e4181926203d4b34b0b454142239019240719df"
 metafile = true
 
 [[files]]
@@ -14235,3 +14240,7 @@ metafile = true
 [[files]]
 file = "resourcepacks/Maxi's-JM+CM_Pixel-U11.zip"
 hash = "69b895090273093492ea7eded6d7dfb0ff5a8460ec4bc50d369f300aabad299d"
+
+[[files]]
+file = "resourcepacks/RCT Trainers+ [1.6] v2.1.zip"
+hash = "44482d5e099fef585e9d742af176d6e54de09a26a8b575b7a510c23d6479f22d"
