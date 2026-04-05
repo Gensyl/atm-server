@@ -1,9 +1,0 @@
-#Specifies the year to fake (0 = disable)
-fakeYear = 2026
-#Specifies the month to fake (0 = disable, 1 = January, 2 = February, ...)
-fakeMonth = 3
-#Specifies the day to fake (0 = disable)
-fakeDayOfMonth = 31
-#Only fake date when queried by specified mods
-#Use * to allow any (not recommended)
-filter = ["*"]

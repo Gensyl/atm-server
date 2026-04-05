@@ -248,10 +248,6 @@ file = "config/extremereactors/common.toml"
 hash = "e008e730a9cdf51b81bc830a1a269dbafacc6970214d2d01ffa0ad3403f9d817"
 
 [[files]]
-file = "config/fakedate.toml"
-hash = "95ddfddcb2ed3f814ba1c9d2aa8b350d8bd0f7135e31f7298e27bb3a45cc20e1"
-
-[[files]]
 file = "config/fancymenu/assets/akliz_color.png"
 hash = "0ddc202dc0bde21307799f43bd60c46de3a6f5ea32d7b265c6e9b9ffb6270af5"
 
@@ -13008,11 +13004,6 @@ metafile = true
 [[files]]
 file = "mods/factory-blocks.pw.toml"
 hash = "f8890e55be67dddba9789c5913e934ae06c2f0c3af83c231916c0ef305a16ff5"
-metafile = true
-
-[[files]]
-file = "mods/fakedate.pw.toml"
-hash = "fb175ce50f7114987f96863e00b7f65f9eebbe3b62001ecb6e3a26560230e93b"
 metafile = true
 
 [[files]]
