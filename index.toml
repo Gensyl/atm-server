@@ -12732,6 +12732,11 @@ hash = "9d071967dda72192e946ee08c7fb034617e78466cb9090f3cf1f9fdb7337ad78"
 metafile = true
 
 [[files]]
+file = "mods/complete-cobblemon-collection-w-legendary-spawns.pw.toml"
+hash = "781f4451280b97332d818c14705626521a3dcd30c9c2cd3ea000be61d53de1dd"
+metafile = true
+
+[[files]]
 file = "mods/connected-glass.pw.toml"
 hash = "ba633190e61bd7b32e412cb628a83fdd09b53b7ef8a036f1669687c719a99cc2"
 metafile = true
